@@ -44,3 +44,5 @@ A ponte de acesso é feita através de um bot no Telegram.
 SER UM BABACA!!
 
 > 🧡 **Lembrete de Amigo:** O servidor é o meu notebook antigo então DDOS com certeza vai derrubar e não tem graça e em nenhum momento vai ser necessário autenticar (Todas minhas senhas são random não perca tempo com brute force)
+
+Aparentemente não dá para acessar o bot pq deixei o CROS ativo... quando chegar em casa desativo.
